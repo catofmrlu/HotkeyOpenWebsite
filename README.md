@@ -27,6 +27,7 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 - wiki百科：wk（空格）搜索词
 - google：gg（空格）搜索词
 - twitter：tw（空格）搜索词
+- StackOverflow：so（空格）搜索词
 
 > 注：为了减少推荐词的干扰，设计逻辑是回车直接打开网站的搜索结果。如果希望不但可以提供直接搜索选项，还可以提供搜索建议，可以安装Web Search Suggest插件来增强。
 >
@@ -35,7 +36,7 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 ---
 #### HotkeyOpenWebsite下载地址：
 
-**download(updating)**:http://pan.baidu.com/s/1eS5pnbG
+**download(updating)**:http://pan.baidu.com/s/1jILweDC
 
 ---
 date:2017.6.22
