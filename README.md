@@ -34,7 +34,7 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 ---
 #### HotkeyOpenWebsite下载地址：
 
-**download(updating)**:http://pan.baidu.com/s/1eRJlIW6
+**download(updating)**:http://pan.baidu.com/s/1eS5pnbG
 
 ---
 date:2017.6.22
