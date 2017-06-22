@@ -24,6 +24,8 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 - 百度：bd（空格）搜索词
 - 知乎：zh（空格）搜索词
 - bilibili：bz（空格）搜索词
+- wiki百科：wk（空格）搜索词
+- google：gg（空格）搜索词
 
 > 注：为了减少推荐词的干扰，设计逻辑是回车直接打开网站的搜索结果。如果希望不但可以提供直接搜索选项，还可以提供搜索建议，可以安装Web Search Suggest插件来增强。
 >
