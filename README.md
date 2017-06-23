@@ -39,4 +39,4 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 **download(updating)**:http://pan.baidu.com/s/1jILweDC
 
 ---
-date:2017.6.22
+date:2017.6.24
