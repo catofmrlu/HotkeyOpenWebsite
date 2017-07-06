@@ -50,6 +50,6 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 **download(updating)**:http://pan.baidu.com/s/1kVyufvp
 
 ---
-date:2017.6.24
+date:2017.7.6
 
 
