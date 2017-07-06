@@ -16,6 +16,13 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 - google control + g
 - bilibili control + b
 - 知乎 control + z
+- 淘宝 control + t
+- 豆瓣 control + d
+- github option + g（可自定义为自己的账号页）
+- Quera control + q
+- 豆瓣-电影 control + m
+- 豆瓣-音乐 control + y
+- 豆瓣-读书 control + s
 
 ---
 
@@ -28,6 +35,10 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 - google：gg（空格）搜索词
 - twitter：tw（空格）搜索词
 - StackOverflow：so（空格）搜索词
+- 微博：wb(空格)搜索词
+- Quera:qa(空格)搜索词
+- 百度贴吧：btb(空格)搜索词
+- 淘宝：tb(空格)搜索词
 
 > 注：为了减少推荐词的干扰，设计逻辑是回车直接打开网站的搜索结果。如果希望不但可以提供直接搜索选项，还可以提供搜索建议，可以安装Web Search Suggest插件来增强。
 >
@@ -36,7 +47,9 @@ a plugin of Alfred Workflow:use a Hotkey to open a websiet
 ---
 #### HotkeyOpenWebsite下载地址：
 
-**download(updating)**:http://pan.baidu.com/s/1jILweDC
+**download(updating)**:http://pan.baidu.com/s/1kVyufvp
 
 ---
 date:2017.6.24
+
+
